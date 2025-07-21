@@ -2,6 +2,8 @@
 
 ## 👋 Hello there, I'm Disha!
 
+</div>
+
 🎓 I'm an AI & ML Learner with a drive for practical innovation, currently pursuing a Bachelor's in Computer Science (CGPA: 8.6).  
 💻 I enjoy building data-driven solutions using Python, Scikit-learn, and visualization tools.  
 🚀 I'm focused on creating and deploying ML applications that solve real problems.  
@@ -11,9 +13,15 @@
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/disha-goyal-311234348/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:onlydishaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/disha-goyal-311234348/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:onlydishaa@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
 
 </div>
