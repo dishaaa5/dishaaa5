@@ -6,7 +6,7 @@
 
    ### 🚀 About Me 
 - 🤖 AI & ML Developer focused on hands-on, project-based learning  
-- 📊 Strong foundation in Machine Learning, Data Analysis & Computer Vision  
+- 📊 Strong foundation in Machine Learning & Computer Vision  
 - 🛠️ Built and deployed multiple ML & CV applications using Streamlit  
 - 🧠 Comfortable with end-to-end ML pipelines: data preprocessing → model training → evaluation → deployment  
 - 🔍 Actively working on Generative AI, Prompt Engineering, LangChain & automation using n8n  
