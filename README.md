@@ -4,15 +4,14 @@
 
 </div>
 
-🎓 I'm an AI & ML Learner with a drive for practical innovation, currently pursuing a Bachelor's in Computer Science (CGPA: 8.6).  
-💻 I enjoy building data-driven solutions using Python, Scikit-learn, and visualization tools.  
-🚀 I'm focused on creating and deploying ML applications that solve real problems.  
-🧠 Currently exploring AI workflows, OpenAI API, Prompt Engineering, and automation tools like N8N.  
-📊 I love turning complex data into meaningful insights and applications.  
-🎯 Always curious, always learning — and always building.
-
----
-
+   ### 🚀 About Me 
+- 🤖 AI & ML Developer focused on hands-on, project-based learning  
+- 📊 Strong foundation in Machine Learning, Data Analysis & Computer Vision  
+- 🛠️ Built and deployed multiple ML & CV applications using Streamlit  
+- 🧠 Comfortable with end-to-end ML pipelines: data preprocessing → model training → evaluation → deployment  
+- 🔍 Actively working on Generative AI, Prompt Engineering, LangChain & automation using n8n  
+- 🌱 Exploring YOLO, custom object detection, and real-time vision systems
+  
 <div align="center">
 
 ## 🌐 Connect with Me
